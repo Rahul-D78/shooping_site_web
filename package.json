@@ -1,0 +1,26 @@
+{
+  "name": "shopping_site_dbms",
+  "version": "1.0.0",
+  "description": "This is shopping website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-D78/shooping_site_web.git"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-D78/shooping_site_web/issues"
+  },
+  "homepage": "https://github.com/Rahul-D78/shooping_site_web#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4",
+    "sequelize": "^5.21.7"
+  }
+}
